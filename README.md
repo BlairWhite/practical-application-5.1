@@ -1,2 +1,7 @@
 # practical-application-5.1
 Practical Application 5.1
+Attached Jupyter notebook examines the coupons.csv dataset, specifically looking at which customer attributes make a customer more likley to accept a coupon. To complete this analysis, I used pandas, seaborn, matplotlib.pyplot, and np libraries. Most of my calculations were done using boolean masks to apply filters to the data, and I used Seaborn and Matplot plots to visualize the data to back up my findings.
+I focused specifically on the Bar and Coffee coupon types. For the Bar coupons, the most predictive attribute was if the customer was a frequent visitor of bars. Other attributes were predictive as well, but it seemed as though the coupon was not enough incentive to convince non-bargoers to attend the bar.
+Regarding the Coffee coupon, user attributes contributed to likeliness of coupon acceptance, but the contextual attributes were important. These included the destination of the customer, the weather, and the time.
+My recommendation for companies looking to utilize these types of coupons in their marketing efforts is to understand what types of attributes contribute to the likeliness of acceptance, and then further filter the potential customers based on these attributes. Using this methodology, the companies can send coupons to customers with a high likelihood to accept, making the most of their marketing ROI.
+Jupyter link?:
