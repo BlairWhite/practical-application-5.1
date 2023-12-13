@@ -3,4 +3,4 @@ Attached Jupyter notebook examines the coupons.csv dataset, specifically looking
 I focused specifically on the Bar and Coffee coupon types. For the Bar coupons, the most predictive attribute was if the customer was a frequent visitor of bars. Other attributes were predictive as well, but it seemed as though the coupon was not enough incentive to convince non-bargoers to attend the bar.
 Regarding the Coffee coupon, user attributes contributed to likeliness of coupon acceptance, but the contextual attributes were important. These included the destination of the customer, the weather, and the time.
 My recommendation for companies looking to utilize these types of coupons in their marketing efforts is to understand what types of attributes contribute to the likeliness of acceptance, and then further filter the potential customers based on these attributes. Using this methodology, the companies can send coupons to customers with a high likelihood to accept, making the most of their marketing ROI.
-Jupyter link?:
+Jupyter Notebook: https://github.com/BlairWhite/practical-application-5.1/blob/main/BlairWhite.ipynb
